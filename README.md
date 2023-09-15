@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anna! (@atsai23)
-- 👀 I’m interested in sustinability, social justice, travel, nature
+- 👋 Hi, I’m Anna! (@tsai_fy)
+- 👀 I’m interested in data and analytics and privacy/tech ethics
 - 🌱 I’m currently learning Python and SQL
 
 
